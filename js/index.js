@@ -1,4 +1,4 @@
-console.log("js is ready");
+/* ./css/style.css */
 body {
  background: blue;
 }
